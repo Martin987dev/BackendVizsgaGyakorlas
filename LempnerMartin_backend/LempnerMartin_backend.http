@@ -1,0 +1,6 @@
+@LempnerMartin_backend_HostAddress = http://localhost:5015
+
+GET {{LempnerMartin_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
