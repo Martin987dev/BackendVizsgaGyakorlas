@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LempnerMartin_backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5746bf5aa7c56f67596233ecb71abb0415be5cce")]
 [assembly: System.Reflection.AssemblyProductAttribute("LempnerMartin_backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LempnerMartin_backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
